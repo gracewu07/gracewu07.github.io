@@ -5,8 +5,6 @@ layout: default
 
 # COMP 110 Class Analysis
 
-[Grace Wu](index.html)
-
 ## Analysis Summary
 For this project, we analyzed whether students think pre lecture videos or lecture videos are helpful in aiding understanding of complex topics in Comp110. We believed that this is a good change that should be implemented in the future of the course, and the data helped support our idea. 
 
