@@ -13,4 +13,10 @@ layout: default
 Write a description of your analysis here...
 
 ## Findings
-Share your key findings here...
+
+![Livestream Histogram](/static/imgs/chart_livestream.png)
+![Pre-lecture Histogram](/static/imgs/chart_prelecture.png)
+![Livestream Count](/static/imgs/chart_livestream_count.png)
+![Pre-lecture Count](/static/imgs/chart_prelecture_count.png)
+![Scatter Plot](/static/imgs/chart_scatter.png)
+![Strip Plot](/static/imgs/chart_stripplot.png)
