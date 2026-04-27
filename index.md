@@ -3,7 +3,12 @@
 layout: default
 ---
 
-# Grace Wu
+# Grace Wu - COMP 110 Class Analysis
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="/static/imgs/logo.png" alt="COMP 110 logo" width="500"/>
+
+## About This Project
+Write a description of your analysis here...
+
+## Findings
+Share your key findings here...
